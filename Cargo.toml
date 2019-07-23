@@ -1,0 +1,11 @@
+[package]
+name = "spotify-restore-saved-albums"
+version = "0.1.0"
+authors = ["Lukas Bergdoll <lukas.bergdoll@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+chrono = "0.4.7"
+indicatif = "0.11.0"
+rspotify = "0.6.0"
+structopt = "0.2.18"
